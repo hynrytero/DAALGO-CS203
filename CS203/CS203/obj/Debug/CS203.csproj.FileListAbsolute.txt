@@ -9,3 +9,14 @@ C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.
 C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.exe
 C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.pdb
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\bin\Debug\CS203.exe.config
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\bin\Debug\CS203.exe
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\bin\Debug\CS203.pdb
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.csproj.AssemblyReference.cache
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.csproj.SuggestedBindingRedirects.cache
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.Form1.resources
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.Properties.Resources.resources
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.cache
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.exe
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.pdb
